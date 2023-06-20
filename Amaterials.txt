@@ -1,0 +1,10 @@
+learn image compressor algorithm
+image file format
+image processor library
+java programing language
+ui design
+compressor tech
+command line or gui
+file i/o storage
+performqnce optimization
+testing and debugging
